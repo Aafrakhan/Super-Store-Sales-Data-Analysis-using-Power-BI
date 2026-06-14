@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard
+# Super-Store-Sales-Data-Analysis
 # SuperStore performance across regions, categories, and customer segments.
 # Performed data cleaning and modeling to ensure accurate, analysis-ready data
 # Built interactive dashboards with DAX measures, slicers, and drill-through filters
